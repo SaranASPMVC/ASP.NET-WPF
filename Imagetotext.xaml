@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="WPFWatermarking.Imagetotext"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="500" Width="700" Loaded="UserControl_Loaded">
+    <UserControl.Resources>
+        <Style x:Key="CloseBtnStyle" TargetType="{x:Type Button}">
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="MaxWidth" Value="17" />
+            <Setter Property="MaxHeight" Value="17" />
+            <Setter Property="Width" Value="17" />
+            <Setter Property="Height" Value="17" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <Rectangle RadiusX="1" RadiusY="1" Fill="Black" Stroke="#FFAAC564" />
+                            <Polygon x:Name="xBtn" Margin="1,1,1,1" Fill="#FFAAC564" Points="0,6.89 2.57,3.41 0.02,0 1.59,0 3.48,2.53 5.23,0 6.48,0 4.13,3.4 6.74,6.89 5.18,6.89 3.21,4.26 1.28,6.89" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter TargetName="xBtn" Property="Fill" Value="#FFFFFFFF" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <Setter Property="Margin" Value="0,10,10,0"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Border  BorderThickness="1,1,1,1" 
+            BorderBrush="#FF333333" >
+        <Border.Background>
+            <LinearGradientBrush EndPoint="0.4,0" StartPoint="0.4,1">
+                <GradientStop Color="#FFD8ECFF" Offset="0" />
+                <GradientStop Color="#1e0e06" Offset="0.9" />
+                <GradientStop Color="AliceBlue" Offset="1" />
+            </LinearGradientBrush>
+        </Border.Background>
+        <Grid>
+            <Button x:Name="btnClose" Style="{StaticResource CloseBtnStyle}" Width="80" Content="Close"   Click="btnClose_Click" Background="Red"></Button>
+
+            <Button Height="26" HorizontalAlignment="Left" Margin="15,62,0,0" Name="cb_browse" VerticalAlignment="Top" Width="74" FontSize="14" Background="Brown" Click="cb_browse_Click">Browse</Button>
+            <TextBox Height="23" Margin="106,66.55,19,0" Name="txt_path" VerticalAlignment="Top">
+                
+            </TextBox>
+            <Label Height="28" HorizontalAlignment="Left" Margin="15,112,0,0" Name="lbl_text" VerticalAlignment="Top" Width="74" Foreground="Chartreuse" FontSize="14">Enter text</Label>
+            <TextBox Height="52" Margin="106,99,347,0" Name="txt_text" VerticalAlignment="Top" />
+            <Label Height="28" HorizontalAlignment="Right" Margin="0,112,280,0" Name="lbl_opacity" VerticalAlignment="Top" Width="62" FontSize="14" Foreground="Chartreuse">Opacity</Label>
+            <ComboBox Height="23" HorizontalAlignment="Right" Margin="0,116,149,0" Name="cmb_opacity" VerticalAlignment="Top" Width="113">
+                <ComboBoxItem>100%</ComboBoxItem>
+                <ComboBoxItem>75%</ComboBoxItem>
+                <ComboBoxItem>50%</ComboBoxItem>
+                <ComboBoxItem>25%</ComboBoxItem>
+                <ComboBoxItem>10%</ComboBoxItem>
+            </ComboBox>
+            <Label Height="28" HorizontalAlignment="Left" Margin="15,157,0,0" Name="lbl_xposition" VerticalAlignment="Top" Width="82" Foreground="Chartreuse" FontSize="14">X-Position</Label>
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="106,159,0,0" Name="txt_xposition" VerticalAlignment="Top" Width="120" />
+            <Label Height="28" Margin="243,157,0,0" Name="lbl_yposition" VerticalAlignment="Top" Foreground="Chartreuse" FontSize="14" HorizontalAlignment="Left" Width="79">Y-Position</Label>
+            <TextBox Height="23" Margin="321,159,257,0" Name="txt_yposition" VerticalAlignment="Top" />
+            <Image Margin="15,193,19,45" Name="userImage" Stretch="Fill" />
+            <Button Background="Brown" FontSize="14" Height="26" HorizontalAlignment="Right" Margin="0,0,19,10" Name="cb_close" VerticalAlignment="Bottom" Width="74" Click="cb_close_Click">Close</Button>
+            <Button Background="Brown" FontSize="14" Height="26" HorizontalAlignment="Right" Margin="0,0,112,10" Name="cb_saveas" VerticalAlignment="Bottom" Width="74" Click="cb_saveas_Click">Save As</Button>
+            <Button Background="Brown" FontSize="14" Height="26" HorizontalAlignment="Left" Margin="410,0,0,10" Name="cb_preview" VerticalAlignment="Bottom" Width="74" Click="cb_preview_Click">Preview</Button>
+            <Button Background="Brown" FontSize="14" Height="26" HorizontalAlignment="Right" Margin="0,159,19,0" Name="cb_setfront" VerticalAlignment="Top" Width="74" Click="cb_setfront_Click">SetFront</Button>
+        </Grid>
+    </Border>
+</UserControl>

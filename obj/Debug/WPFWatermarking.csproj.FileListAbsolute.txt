@@ -1,0 +1,337 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\WPFWatermarking.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\WPFWatermarking.xbap
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\WPFWatermarking.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\WPFWatermarking.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Controls.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Fuzzy.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Genetic.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Imaging.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Imaging.Formats.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.MachineLearning.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Math.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Neuro.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Robotics.Lego.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Video.DirectShow.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Video.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Video.VFW.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\AForge.Vision.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\ImagingDevice.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\WPFToolkit.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\Extractwatermark.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\ImagetiImage.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\Imagetotext.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WatermarkEncrypt.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\Extractwatermark.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\ImagetiImage.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\Imagetotext.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\Page1.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WatermarkEncrypt.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\App.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.lref
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\Page1.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.g.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.TrustInfo.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.xbap
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\ServerDetails.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\ServerDetails.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\Login.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\Login.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\UserDetails.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\UserDetails.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\CreateBank.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\CreateBank.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\ViewBankProfile.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\ViewBankProfile.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\CreateAccount.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\CreateAccount.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\ViewAccounts.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\ViewAccounts.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\WPFWatermarking.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\Signature.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\Signature.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\MoneyTransfer.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\MoneyTransfer.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\ResolveAssemblyReference.cache
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\CreateBank.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\Extractwatermark.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\ImagetiImage.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\Imagetotext.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\Login.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\MoneyTransfer.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\ServerDetails.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WatermarkEncrypt.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\CreateAccount.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\CreateBank.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\Extractwatermark.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\ImagetiImage.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\Imagetotext.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\Login.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\MoneyTransfer.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\Page1.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\ServerDetails.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\Signature.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WatermarkEncrypt.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\App.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.cache
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.lref
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.exe
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.pdb
+D:\WPFWatermarking\WPFWatermarking\bin\Debug\WPFWatermarking.exe.config
+D:\WPFWatermarking\WPFWatermarking\bin\Debug\WPFWatermarking.exe.manifest
+D:\WPFWatermarking\WPFWatermarking\bin\Debug\WPFWatermarking.xbap
+D:\WPFWatermarking\WPFWatermarking\bin\Debug\WPFWatermarking.exe
+D:\WPFWatermarking\WPFWatermarking\bin\Debug\WPFWatermarking.pdb
+D:\WPFWatermarking\WPFWatermarking\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\WPFWatermarking\WPFWatermarking\bin\Debug\WPFToolkit.dll
+D:\WPFWatermarking\WPFWatermarking\bin\Debug\WPFToolkit.pdb
+D:\WPFWatermarking\WPFWatermarking\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\UserDetails.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\ViewAccounts.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\ViewBankProfile.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\UserDetails.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\ViewAccounts.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\ViewBankProfile.g.cs
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\CreateAccount.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\Page1.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\Signature.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.g.resources
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.Properties.Resources.resources
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.csproj.GenerateResource.Cache
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.TrustInfo.xml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.exe.manifest
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\WPFWatermarking.xbap
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\MoneyTransaction.baml
+D:\WPFWatermarking\WPFWatermarking\obj\Debug\MoneyTransaction.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\MoneyTransaction.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\MoneyTransaction.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WatermarkingServer.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WatermarkingServer.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WatermarkingClient.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WatermarkingClient.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\bin\Debug\WebCam_Capture.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WaterMarkingSrv.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WPFWatermarking\WPFWatermarking\obj\Debug\WaterMarkingSrv.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFWatermarking.exe.config
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFWatermarking.exe.manifest
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFWatermarking.xbap
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFWatermarking.exe
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFWatermarking.pdb
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFToolkit.pdb
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csprojResolveAssemblyReference.cache
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateBank.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Extractwatermark.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ImagetiImage.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Imagetotext.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Login.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransaction.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransfer.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ServerDetails.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\UserDetails.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewAccounts.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewBankProfile.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkEncrypt.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingClient.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingServer.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WaterMarkingSrv.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateAccount.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateBank.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Extractwatermark.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ImagetiImage.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Imagetotext.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Login.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransaction.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransfer.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Page1.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ServerDetails.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Signature.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\UserDetails.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewAccounts.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewBankProfile.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkEncrypt.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingClient.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingServer.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WaterMarkingSrv.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\App.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.cache
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.lref
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateAccount.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Page1.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Signature.baml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.g.resources
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.Properties.Resources.resources
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csproj.GenerateResource.Cache
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.TrustInfo.xml
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.exe.manifest
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.xbap
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.exe
+C:\Users\sys\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.pdb
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateBank.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Extractwatermark.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ImagetiImage.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Imagetotext.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Login.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransaction.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransfer.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ServerDetails.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\UserDetails.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewAccounts.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewBankProfile.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkEncrypt.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingClient.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingServer.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WaterMarkingSrv.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateAccount.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateBank.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Extractwatermark.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ImagetiImage.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Imagetotext.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Login.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransaction.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransfer.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Page1.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ServerDetails.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Signature.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\UserDetails.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewAccounts.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewBankProfile.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkEncrypt.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingClient.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingServer.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WaterMarkingSrv.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateAccount.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Page1.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Signature.baml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.g.resources
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.TrustInfo.xml
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.exe
+C:\Users\Lenovo\Desktop\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.pdb
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateBank.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Extractwatermark.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ImagetiImage.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Imagetotext.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Login.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransaction.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransfer.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ServerDetails.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\UserDetails.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewAccounts.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewBankProfile.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkEncrypt.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingClient.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingServer.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WaterMarkingSrv.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateAccount.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateBank.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Extractwatermark.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ImagetiImage.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Imagetotext.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Login.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransaction.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransfer.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Page1.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ServerDetails.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Signature.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\UserDetails.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewAccounts.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewBankProfile.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkEncrypt.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingClient.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingServer.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WaterMarkingSrv.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateAccount.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Page1.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Signature.baml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.g.resources
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.TrustInfo.xml
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.exe
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.pdb
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFWatermarking.exe.config
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFWatermarking.exe.manifest
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFWatermarking.xbap
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFWatermarking.exe
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFWatermarking.pdb
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\bin\Debug\WPFToolkit.pdb
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.exe.manifest
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.xbap
+C:\Users\Lenovo\Desktop\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateBank.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Extractwatermark.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ImagetiImage.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Imagetotext.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Login.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransaction.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransfer.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ServerDetails.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\UserDetails.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewAccounts.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewBankProfile.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkEncrypt.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingClient.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingServer.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WaterMarkingSrv.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateAccount.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateBank.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Extractwatermark.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ImagetiImage.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Imagetotext.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Login.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransaction.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\MoneyTransfer.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Page1.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ServerDetails.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Signature.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\UserDetails.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewAccounts.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\ViewBankProfile.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkEncrypt.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingClient.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WatermarkingServer.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WaterMarkingSrv.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\CreateAccount.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Page1.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\Signature.baml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.g.resources
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.TrustInfo.xml
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.exe
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.pdb
+C:\Users\Lenovo\Desktop\SARAN DOCUMENTS\saran ME\Water Marking\WPFWatermarkingSource\WPFWatermarking\obj\Debug\WPFWatermarking.csprojAssemblyReference.cache
